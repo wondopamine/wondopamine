@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wondopamine
-- 👀 I’m interested in Interaction Design and strategic design
-- 🌱 I’m currently learning NFT, Business design and hoping to learn coding.
-- 📫 How to reach me: wondopamine@gmail.com
+- 👀 I’m interested in running these days
+- 🌱 I’m currently learning NFT and business design
+- 📫 How to reach me? wondopamine@gmail.com
 
 <!---
 wondopamine/wondopamine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
